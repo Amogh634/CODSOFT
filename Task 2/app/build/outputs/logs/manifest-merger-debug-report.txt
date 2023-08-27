@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\a9064cce64e1810e9597926a73324881\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\1a75e1dc8e9ce1b1fb9d84184628eb5a\transformed\jetified-core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\803eaa4fadb4fabd56359089706b7d39\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\c33d50d0bcc8dc6eac37a9e06e4c7dd6\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\6d82925fdf004d17c9182a20fac15c27\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\95deb1a9f8e75cefb4799d6299859b40\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\24fa6ae5961f8e7caea8b048e637096a\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\0343713288e457939921ddbf372031f2\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\1783133bc9b9929981d5cdf1189200b1\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\c893ed574754ee3852379231051a3356\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\20cbfe88eb331e251d06f6ca9b4080ba\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\8f180aabbd4c202a20ba4c7c01472c2e\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\938473374b8c976fd219c93bbbc31cfe\transformed\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\da651716e0704609633d336b7c6b5459\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\840dbb066506ddb7e556ba8085f4d078\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\a91d7b85c125c7370abe451cc8b63e76\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\d9632b0c7dda680450c750e40da83617\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\42c9e0f4ac02e9145fd884a87b927d13\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\98fc3763a0203a1202490c27820748ba\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\5237b22822c58412d507686445044890\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\ad66e772d81c24294334a67dcba429b3\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\0c50728d0651f90cc145fe7c7bcbd1c2\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml
+	xmlns:dist
+		ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:2:11-69
+dist:module
+ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:6:5-40
+	dist:instant
+		ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:6:18-37
+application
+ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:8:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\803eaa4fadb4fabd56359089706b7d39\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\803eaa4fadb4fabd56359089706b7d39\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\938473374b8c976fd219c93bbbc31cfe\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\938473374b8c976fd219c93bbbc31cfe\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\840dbb066506ddb7e556ba8085f4d078\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\840dbb066506ddb7e556ba8085f4d078\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\938473374b8c976fd219c93bbbc31cfe\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:14:9-59
+activity#cdn.kotlincalculator.MainActivity
+ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:15:19-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\a9064cce64e1810e9597926a73324881\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\a9064cce64e1810e9597926a73324881\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\1a75e1dc8e9ce1b1fb9d84184628eb5a\transformed\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\1a75e1dc8e9ce1b1fb9d84184628eb5a\transformed\jetified-core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\803eaa4fadb4fabd56359089706b7d39\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\803eaa4fadb4fabd56359089706b7d39\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\c33d50d0bcc8dc6eac37a9e06e4c7dd6\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\c33d50d0bcc8dc6eac37a9e06e4c7dd6\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\6d82925fdf004d17c9182a20fac15c27\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\6d82925fdf004d17c9182a20fac15c27\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\95deb1a9f8e75cefb4799d6299859b40\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\95deb1a9f8e75cefb4799d6299859b40\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\24fa6ae5961f8e7caea8b048e637096a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\24fa6ae5961f8e7caea8b048e637096a\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\0343713288e457939921ddbf372031f2\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\0343713288e457939921ddbf372031f2\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\1783133bc9b9929981d5cdf1189200b1\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\1783133bc9b9929981d5cdf1189200b1\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\c893ed574754ee3852379231051a3356\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\c893ed574754ee3852379231051a3356\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\20cbfe88eb331e251d06f6ca9b4080ba\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\20cbfe88eb331e251d06f6ca9b4080ba\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\8f180aabbd4c202a20ba4c7c01472c2e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\8f180aabbd4c202a20ba4c7c01472c2e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\938473374b8c976fd219c93bbbc31cfe\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\938473374b8c976fd219c93bbbc31cfe\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\da651716e0704609633d336b7c6b5459\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\da651716e0704609633d336b7c6b5459\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\840dbb066506ddb7e556ba8085f4d078\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\840dbb066506ddb7e556ba8085f4d078\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\a91d7b85c125c7370abe451cc8b63e76\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\a91d7b85c125c7370abe451cc8b63e76\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\d9632b0c7dda680450c750e40da83617\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\d9632b0c7dda680450c750e40da83617\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\42c9e0f4ac02e9145fd884a87b927d13\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\42c9e0f4ac02e9145fd884a87b927d13\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\98fc3763a0203a1202490c27820748ba\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\98fc3763a0203a1202490c27820748ba\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\5237b22822c58412d507686445044890\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\5237b22822c58412d507686445044890\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\ad66e772d81c24294334a67dcba429b3\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\ad66e772d81c24294334a67dcba429b3\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\0c50728d0651f90cc145fe7c7bcbd1c2\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Amogh Bansal\.gradle\caches\transforms-3\0c50728d0651f90cc145fe7c7bcbd1c2\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Amogh Bansal\Desktop\App Dev Internship\Task 2\app\src\main\AndroidManifest.xml
